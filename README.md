@@ -19,4 +19,4 @@ Implemente a injeção de dependências nas camadas Controller e Business.
 
 ### Exercício 3
 
-Finalize a refatoração do resto do código (DTOs + zod).
+Finalize a refatoração dos outros endpoints (DTOs + zod).
